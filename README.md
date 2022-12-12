@@ -148,5 +148,5 @@ width="800" height="400"/>
   </a> 
 </p>
 <h3 align="center">GITHUB STATS<hr/></h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakydh&theme=dark&,dockerfile" alt="snakydh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakydh&theme=dark&,dockerfile&hide=html" alt="snakydh" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=snakydh&theme=dark&show_icons=true&line_height=27&" alt="snakydh" />
