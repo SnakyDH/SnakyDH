@@ -148,6 +148,6 @@ width="800" height="400"/>
   </a> 
 </p>
 <h3 align="center">GITHUB STATS<hr/></h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakydh&bg_color=DEG,0F1135,2f36a8&color=FFFFFF&theme=tokyonight&show_icons=true&line_height=27&range=all-time" alt="snakydh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakydh&bg_color=DEG,0F1135,2f36a8&color=FFFFFF&theme=tokyonight&show_icons=true&line_height=27&hide=HTML&range=all-time" alt="snakydh" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=snakydh&bg_color=DEG,0F1135,2f36a8&color=FFFFFF&theme=tokyonight&show_icons=true&line_height=27" alt="snakydh" />
 <img style="padding-top: 1rem;"align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=snakydh&bg_color=0F1135&color=FFFFFF&line=FFFFFF&point=61D9FB&area=true&hide_border=true" alt="snakydh" />
