@@ -19,7 +19,6 @@ width="800" height="400"/>
   <p align="center">
     I am a FullStack Web developer, currently studying at 
     Universidad Distrital Francisco Jose de Caldas. </br>
-    I enjoy learning and creating new projects with a focus on (UI/UX).
   </p>
 </p>
 <h3 align="center">TECH STACK</h3>
