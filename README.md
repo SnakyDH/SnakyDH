@@ -32,7 +32,7 @@ width="800" height="400"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center">Frontend Web</h4>
 <p align="center">
 <img src='https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white' />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
