@@ -5,11 +5,6 @@ width="800" height="400"/>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgarciadh/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel García Romero LinkedIn" target="_blank"/></a>
 &nbsp;
-&nbsp;
-  <a href="https://github.com/snakydh">
-    <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
-  </a>&nbsp;
-&nbsp;
   <a href="https://github.com/snakydh">
     <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
